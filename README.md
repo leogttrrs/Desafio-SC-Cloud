@@ -59,5 +59,11 @@ Os códigos resolvendo os exercícios da segunda etapa estão nos arquivos deste
 
 - Fibonacci (recursivo): [fib_rec.py](https://github.com/leogttrrs/Desafio-SC-Cloud/blob/main/fib_rec.py)
 - Fibonacci (linear): [fib.py](https://github.com/leogttrrs/Desafio-SC-Cloud/blob/main/fib.py)
-- Primos (recursivo): primos_ate_rec.py
+- Primos (recursivo): [primos_ate_rec.py](https://github.com/leogttrrs/Desafio-SC-Cloud/blob/main/primos_ate_rec.py)
 - Primos (linear): [primos_ate.py](https://github.com/leogttrrs/Desafio-SC-Cloud/blob/main/primos_ate.py)
+
+Para as funções sobre a lista de primos, utilizei 2 abordagens:
+- Utilizando uma função auxiliar para verificar se é primo
+- Utilizando uma única função
+
+Ambos os arquivos (recursivo e linear) contém as duas abordagens. As funções com nome "p" ou "p_rec" se referem à abordagem de função única, enquanto "primos_ate" e "primos_ate_rec" utilizam a função auxiliar "eh_primo".
