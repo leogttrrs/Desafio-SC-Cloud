@@ -58,6 +58,6 @@ redução de custos, independência de proprietários para a utilização e pers
 Os códigos resolvendo os exercícios da segunda etapa estão nos arquivos deste repositíro. Os nomes dos arquivos são:
 
 - Fibonacci (recursivo): [fib_rec.py](https://github.com/leogttrrs/Desafio-SC-Cloud/blob/main/fib_rec.py)
-- Fibonacci (linear): fib.py
+- Fibonacci (linear): [fib.py](https://github.com/leogttrrs/Desafio-SC-Cloud/blob/main/fib.py)
 - Primos (recursivo): primos_rec.py
 - Primos (linear): primos.py
